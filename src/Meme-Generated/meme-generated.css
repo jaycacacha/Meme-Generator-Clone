@@ -1,0 +1,26 @@
+.generatedContainer {
+  margin-top: 20px;
+}
+
+.homeBtn {
+  background-color: #00b33c;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.copyBtn {
+  background-color: #008ae6;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 8px;
+}
+#img-generated {
+  height: auto;
+}
