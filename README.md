@@ -1,10 +1,10 @@
 # Meme Generator
 
-The basic concept of this project is to have fun with memes while learning
+The basic concept of this project is to have fun with memes while learning <br />
 -Reactjs <br />
 -hooks  <br />
 -Router <br />
--fetching data from public api
+-fetching data from public api <br />
 
 ## Contributing
 
