@@ -1,7 +1,7 @@
 # Meme Generator
 
 The basic concept of this project is to have fun with memes while learning <br />
-* Reactjs <br />
+* React <br />
 * React Hooks  <br />
 * React Router <br />
 * Fetching data from public api <br />
