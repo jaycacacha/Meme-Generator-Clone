@@ -1,6 +1,6 @@
 # Meme Generator
 
-The basic concept of this project is to have fun with memes while learning <br />
+The concept of this project is to have fun with memes while learning <br />
 * React <br />
 * React Hooks  <br />
 * React Router <br />
