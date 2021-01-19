@@ -1,10 +1,10 @@
-import React, { useEffect, useState, setCaptions } from "react";
+import React, { useEffect, useState } from "react";
 import "./meme.css";
 import { useHistory } from "react-router-dom";
 
 export const Meme = () => {
   const [memes, setMemes] = useState([]);
-  const [memeIndex, setMemeIndex] = useState([0]);
+  const [memeIndex] = useState([0]);
   const [captions, setCaptions] = useState([]);
   const history = useHistory();
 
